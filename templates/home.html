@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+
+
+{% block style %}
+<link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+{% endblock %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+<h1>Calculator</h1>
+<form method="post" action="/calculate">
+    <input autofocus name="age" type="number" placeholder="Age" min="0" max="100" id="age">
+
+    <select name="gender" id="gender">
+        <option disabled selected value="">Gender</option>
+        <option value="male">Male</option>
+        <option value="female">Female</option>
+    </select>
+
+    <select name="country" id="country">
+        <option disabled selected value="">Country</option>
+        <option value="Australia">Australia</option>
+        <option value="Canada">Canada</option>
+        <option value="China">China</option>
+        <option value="France">France</option>
+        <option value="Germany">Germany</option>
+        <option value="Hong Kong">Hong Kong</option>
+        <option value="Italy">Italy</option>
+        <option value="Japan">Japan</option>
+        <option value="Malaysia">Malaysia</option>
+        <option value="Singapore">Singapore</option>
+        <option value="South Korea">South Korea</option>
+        <option value="Spain">Spain</option>
+        <option value="Switzerland">Switzerland</option>
+        <option value="Taiwan">Taiwan</option>
+        <option value="Thailand">Thailand</option>
+        <option value="UAE">United Arab Emirates</option>
+        <option value="USA">USA</option>
+        <option value="Vietnam">Vietnam</option>
+    </select>
+    <input type="submit" value="Calculate">
+</form>
+<br><br>
+<p><b>Calculate your chance of surviving COVID-19 if caught!</b><br><br>Please note that the list of countries is limited due to lack of available worldwide patient-level data. Sorry for any inconvenience caused.<br> If you still wish to use the calculator, you can enter a country with a similar death rate to the country you originate from/are in.<br><br>The accuracy of our model is <strong>{{ accuracy }}</strong>!</p>
+<script>
+    document.querySelector('form').onsubmit = function() {
+        if (!document.querySelector('input').value) {
+            alert('You must provide your age!');
+            return false;
+        }
+        return true;
+    };
+</script>
+{% endblock %}

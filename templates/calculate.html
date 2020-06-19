@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block style %}
+<link rel="stylesheet" href="{{ url_for('static', filename='calculate.css') }}">
+{% endblock %}
+
+{% block head %}{% endblock %}
+
+{% block body %}
+<h1>You entered:</h1>
+<ul class="entered_list">
+    <li><strong>Age</strong>: {{ age }}</li>
+    <li><strong>Gender</strong>: {{ gender }}</li>
+    <li><strong>Country</strong>: {{ country }}</li>
+</ul>
+
+<h3>Your chances of death are:</h3>
+<br>
+<h2>{{ result }}</h2>
+{% endblock %}

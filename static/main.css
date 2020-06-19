@@ -1,0 +1,42 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f1f1f1;
+}
+
+/* Navigation */
+p {
+  float: center;
+  text-align: center;
+  white-space: pre;
+}
+
+
+/* Footer */
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+
+.fineprint {
+    font-size: 10pt;
+}
+
+.nonfineprint {
+    font-size: 15pt;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 30pt;
+}

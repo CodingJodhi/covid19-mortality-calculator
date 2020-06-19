@@ -1,0 +1,1189 @@
+death,gender,age,country
+0,male,66,China
+0,female,56,China
+0,male,46,China
+0,female,60,China
+1,male,58,China
+0,female,44,China
+0,male,34,China
+0,male,37,China
+0,male,39,China
+0,male,56,China
+0,female,18,China
+0,female,32,China
+0,male,37,China
+0,male,51,China
+0,male,57,China
+0,male,56,China
+0,male,50,China
+0,female,52,China
+0,male,33,China
+0,male,40,China
+0,male,70,China
+0,male,51,China
+0,female,28,China
+0,male,37,China
+0,male,19,China
+0,male,29,China
+0,female,66,China
+0,male,46,China
+0,female,32,China
+0,male,28,China
+1,female,48,China
+1,male,82,China
+1,male,66,China
+1,male,81,China
+1,female,82,China
+1,male,65,China
+1,female,80,China
+1,male,53,China
+1,male,86,China
+1,female,70,China
+1,male,84,China
+0,female,50,China
+0,male,40,China
+0,male,45,China
+0,female,66,China
+0,male,59,China
+0,female,23,China
+0,female,50,China
+0,male,43,China
+0,male,49,China
+0,male,42,China
+0,female,32,China
+0,male,22,China
+0,male,47,China
+0,male,52,China
+0,male,53,China
+0,male,46,China
+1,female,85,China
+1,female,69,China
+1,male,36,China
+1,male,73,China
+1,female,70,China
+1,male,81,China
+1,female,65,China
+0,male,42,China
+0,male,30,China
+0,female,29,China
+0,male,49,China
+0,male,23,China
+0,female,56,China
+0,male,39,China
+0,female,39,China
+0,female,34,China
+0,male,49,China
+1,male,70,China
+1,female,76,China
+1,male,72,China
+1,male,79,China
+1,male,55,China
+1,male,87,China
+1,female,66,China
+1,male,58,China
+1,male,66,China
+1,male,78,China
+1,male,67,China
+1,male,65,China
+1,male,58,China
+1,female,67,China
+1,female,82,China
+0,female,49,China
+0,female,2,China
+0,female,59,China
+0,male,57,China
+0,female,68,China
+0,male,40,China
+0,male,46,China
+0,male,56,China
+0,female,29,China
+0,male,29,China
+0,male,57,China
+0,male,30,China
+0,female,33,China
+0,female,20,China
+0,female,24,China
+0,male,28,China
+0,male,41,China
+0,male,46,China
+0,female,45,China
+0,female,9,China
+0,male,40,China
+0,male,28,China
+0,male,27,China
+0,male,15,China
+0,female,42,China
+0,male,24,China
+0,female,32,China
+0,male,34,China
+0,male,63,China
+0,male,58,China
+0,male,49,China
+0,male,33,China
+0,female,55,China
+0,female,79,China
+0,female,19,China
+0,female,58,China
+0,female,39,China
+0,female,21,China
+0,female,30,China
+0,female,64,China
+0,male,44,China
+0,female,70,China
+0,female,52,China
+0,female,32,China
+0,male,33,China
+0,male,71,China
+0,male,31,China
+0,female,48,China
+0,female,19,China
+0,female,68,China
+0,male,71,China
+0,male,35,China
+0,female,4,China
+0,male,38,China
+0,female,69,China
+0,male,50,China
+0,male,78,China
+0,male,49,China
+0,male,34,China
+0,female,55,China
+0,female,36,China
+0,male,65,China
+0,male,38,China
+0,female,36,China
+0,male,18,China
+0,male,50,China
+0,female,40,China
+0,female,63,China
+0,female,47,China
+0,female,42,China
+0,male,48,China
+0,male,39,China
+0,female,41,China
+0,male,31,China
+0,male,27,China
+0,female,28,China
+0,female,51,China
+0,male,37,China
+0,male,48,France
+0,male,31,France
+0,female,30,France
+1,male,80,France
+0,female,33,France
+0,male,63,France
+0,male,31,France
+0,male,72,France
+0,male,50,France
+0,female,35,France
+0,female,23,France
+0,female,27,France
+0,female,58,France
+0,female,25,France
+0,male,25,France
+0,male,35,Japan
+0,male,45,Japan
+0,female,35,Japan
+0,male,45,Japan
+0,male,45,Japan
+0,male,65,Japan
+0,female,45,Japan
+0,female,45,Japan
+0,male,55,Japan
+0,male,55,Japan
+0,female,35,Japan
+0,female,25,Japan
+0,female,25,Japan
+0,male,45,Japan
+0,male,45,Japan
+0,male,35,Japan
+0,female,35,Japan
+0,female,55,Japan
+0,male,55,Japan
+0,male,45,Japan
+0,male,25,Japan
+0,male,55,Japan
+0,male,75,Japan
+0,male,65,Japan
+0,male,55,Japan
+0,male,35,Japan
+0,male,55,Japan
+0,female,55,Japan
+0,male,65,Japan
+0,female,65,Japan
+0,female,65,Japan
+0,male,45,Japan
+0,male,65,Japan
+0,male,35,Japan
+0,male,65,Japan
+0,male,65,Japan
+0,male,65,Japan
+0,female,85,Japan
+0,female,55,Japan
+0,male,55,Japan
+0,male,55,Japan
+0,female,45,Japan
+0,male,65,Japan
+0,male,35,Japan
+1,male,85,Japan
+0,male,25,Japan
+0,male,55,Japan
+0,male,65,Japan
+0,male,85,Japan
+0,male,75,Japan
+0,male,65,Japan
+0,male,45,Japan
+0,male,65,Japan
+0,male,65,Japan
+0,male,75,Japan
+0,female,75,Japan
+0,female,75,Japan
+0,female,55,Japan
+0,male,55,Japan
+0,male,65,Japan
+0,male,45,Japan
+0,female,75,Japan
+0,male,85,Japan
+0,male,85,Japan
+0,male,85,Japan
+0,female,65,Japan
+0,male,5,Japan
+0,male,15,Japan
+0,female,45,Japan
+0,male,55,Japan
+0,female,55,Japan
+0,female,75,Japan
+0,female,55,Japan
+0,male,65,Japan
+0,male,85,Japan
+0,male,75,Japan
+0,female,25,Japan
+0,female,25,Japan
+0,male,55,Japan
+0,male,65,Japan
+0,male,45,Japan
+0,female,65,Japan
+0,female,55,Japan
+0,female,75,Japan
+1,male,85,Japan
+0,male,75,Japan
+0,female,55,Japan
+0,male,65,Japan
+0,female,55,Japan
+0,female,15,Japan
+0,female,55,Japan
+0,male,65,Japan
+0,female,65,Japan
+0,female,46,Japan
+0,male,65,Japan
+0,male,65,Japan
+0,female,65,Japan
+0,male,55,Japan
+0,male,55,Japan
+0,male,75,Japan
+0,female,75,Japan
+0,male,75,Japan
+0,male,45,Japan
+0,male,35,Japan
+0,female,65,Japan
+0,male,25,Japan
+0,male,75,Japan
+0,female,35,Japan
+0,male,85,Japan
+0,female,45,Japan
+0,female,25,Japan
+0,female,55,Japan
+0,male,55,Japan
+0,male,65,Japan
+0,female,75,Japan
+0,male,55,Japan
+0,female,25,Japan
+0,male,55,Japan
+0,male,55,Japan
+0,male,45,Japan
+0,male,55,Japan
+0,male,35,Japan
+0,female,55,Japan
+0,female,25,Japan
+0,female,25,Japan
+0,male,65,Japan
+0,male,55,Japan
+0,female,65,Japan
+0,female,65,Japan
+0,female,55,Japan
+0,female,75,Japan
+0,female,75,Japan
+0,female,45,Japan
+0,male,55,Japan
+0,male,65,Japan
+0,male,75,Japan
+0,male,25,Japan
+0,female,25,Japan
+0,male,75,Japan
+0,female,75,Japan
+0,female,75,Japan
+0,male,45,Japan
+0,male,65,Japan
+0,female,45,Japan
+0,male,85,Japan
+0,male,75,Japan
+0,male,75,Japan
+0,male,55,Japan
+0,male,65,Japan
+0,male,75,Japan
+0,male,75,Japan
+0,female,75,Japan
+0,male,55,Japan
+0,female,55,Japan
+0,male,55,Japan
+0,male,55,Japan
+0,female,60,Japan
+0,male,45,Japan
+0,male,55,Japan
+0,male,55,Japan
+0,male,35,Japan
+0,male,75,Japan
+0,male,65,Japan
+0,male,45,Japan
+0,male,45,Japan
+0,male,5,Japan
+0,male,35,Japan
+0,male,5,Japan
+0,male,85,Japan
+0,male,35,Japan
+0,male,85,Japan
+0,male,65,Japan
+0,female,45,Japan
+0,female,65,Japan
+0,male,65,Japan
+0,female,45,Japan
+0,male,25,Japan
+0,male,65,Japan
+0,female,85,Japan
+0,male,5,Japan
+0,male,85,Japan
+0,female,65,Japan
+0,male,65,Japan
+0,male,65,Japan
+0,female,65,Japan
+0,male,45,Japan
+0,male,75,Japan
+0,female,65,Japan
+0,male,65,Japan
+0,male,65,Japan
+0,male,65,Japan
+0,female,45,Japan
+0,female,35,Japan
+0,male,65,Japan
+0,male,75,Japan
+0,female,25,Japan
+0,female,95,Japan
+0,female,65,Japan
+0,female,35,Japan
+0,female,25,Japan
+0,female,75,Japan
+0,male,65,Japan
+0,female,75,Japan
+0,female,55,Japan
+0,male,25,Japan
+0,female,25,Japan
+0,male,45,Japan
+0,female,55,Japan
+0,male,75,Japan
+0,male,55,Japan
+0,female,55,Japan
+0,female,65,Japan
+0,female,85,Japan
+0,female,55,Japan
+0,female,65,Japan
+0,male,45,Japan
+0,female,35,Japan
+0,male,45,Japan
+0,male,65,Japan
+0,male,65,Japan
+0,male,55,Japan
+0,female,45,Japan
+0,male,55,Japan
+0,male,55,Japan
+0,female,45,Japan
+0,female,35,Japan
+0,male,45,Japan
+0,female,35,Japan
+0,female,65,Japan
+0,female,65,Japan
+0,female,55,Japan
+0,male,45,Japan
+0,female,55,Japan
+0,female,55,Japan
+0,male,55,Japan
+0,female,45,Japan
+0,female,75,Japan
+0,male,85,Japan
+0,female,25,Japan
+0,male,75,Japan
+0,male,45,Japan
+0,male,40,Malaysia
+0,female,65,Malaysia
+0,male,11,Malaysia
+0,male,2,Malaysia
+0,male,9,Malaysia
+0,female,40,Malaysia
+0,female,37,Malaysia
+0,female,59,Malaysia
+0,female,67,Malaysia
+0,female,65,Malaysia
+0,male,31,Malaysia
+0,female,39,Malaysia
+0,male,27,Malaysia
+0,female,32,Malaysia
+0,female,83,Malaysia
+0,female,53,Malaysia
+0,male,66,Singapore
+0,female,53,Singapore
+0,male,37,Singapore
+0,male,36,Singapore
+0,female,56,Singapore
+0,male,56,Singapore
+0,male,35,Singapore
+0,female,56,Singapore
+0,male,56,Singapore
+0,male,56,Singapore
+0,female,48,Singapore
+0,female,44,Singapore
+0,female,32,Singapore
+0,female,42,Singapore
+0,male,0.5,Singapore
+0,male,45,Singapore
+0,male,41,Singapore
+0,male,27,Singapore
+0,male,53,Singapore
+0,female,42,Singapore
+0,female,39,Singapore
+0,female,40,Singapore
+0,male,64,Singapore
+0,female,38,Singapore
+0,male,53,Singapore
+0,female,52,Singapore
+0,male,51,Singapore
+0,male,36,Singapore
+0,male,71,Singapore
+0,male,39,Singapore
+0,male,54,Singapore
+0,male,37,Singapore
+0,female,2,Singapore
+0,male,35,Singapore
+0,male,39,Singapore
+0,male,34,Singapore
+0,male,46,Singapore
+0,male,62,Singapore
+0,male,48,Singapore
+0,male,37,Singapore
+0,male,54,Singapore
+0,female,55,Singapore
+0,male,30,Singapore
+0,male,30,Singapore
+0,male,26,Singapore
+0,male,55,Singapore
+0,male,61,Singapore
+0,female,51,Singapore
+0,male,57,Singapore
+0,female,44,Singapore
+0,female,54,Singapore
+0,male,50,Singapore
+0,female,61,Singapore
+0,male,28,Singapore
+0,female,56,Singapore
+0,female,79,Singapore
+0,male,26,Singapore
+0,female,27,Singapore
+0,male,25,Singapore
+0,male,40,Singapore
+0,male,43,Singapore
+0,male,29,Singapore
+0,female,71,Singapore
+0,male,1,Singapore
+0,male,35,Singapore
+0,female,57,Singapore
+0,female,35,Singapore
+0,female,38,Singapore
+0,male,50,Singapore
+0,female,57,Singapore
+0,male,54,Singapore
+0,female,35,Singapore
+0,male,36,Singapore
+0,male,24,Singapore
+0,male,32,Singapore
+0,female,30,Singapore
+0,male,41,Singapore
+0,female,75,Singapore
+0,female,58,Singapore
+0,male,47,Singapore
+0,male,38,Singapore
+0,female,64,Singapore
+0,male,44,Singapore
+0,male,12,Singapore
+0,female,44,Singapore
+0,male,24,Singapore
+0,male,27,Singapore
+0,male,20,Singapore
+0,male,61,Singapore
+0,female,41,Singapore
+0,female,37,Singapore
+0,female,25,Singapore
+0,male,49,Singapore
+0,male,54,Singapore
+0,female,68,Singapore
+0,female,34,Singapore
+0,male,70,Singapore
+0,male,33,Singapore
+0,male,43,Singapore
+0,female,62,Singapore
+0,female,35,South Korea
+0,male,55,South Korea
+0,male,54,South Korea
+0,male,55,South Korea
+0,male,32,South Korea
+0,male,56,South Korea
+0,male,28,South Korea
+0,female,62,South Korea
+0,female,28,South Korea
+0,female,52,South Korea
+0,male,25,South Korea
+0,male,48,South Korea
+0,male,28,South Korea
+0,female,40,South Korea
+0,male,43,South Korea
+0,female,42,South Korea
+0,male,37,South Korea
+0,female,21,South Korea
+0,male,36,South Korea
+0,female,41,South Korea
+0,female,59,South Korea
+0,male,46,South Korea
+0,female,58,South Korea
+0,male,28,South Korea
+0,female,73,South Korea
+0,male,51,South Korea
+0,female,37,South Korea
+0,female,30,South Korea
+0,male,82,South Korea
+0,female,68,South Korea
+0,female,61,South Korea
+0,female,54,South Korea
+0,male,28,South Korea
+0,female,63,South Korea
+0,female,72,South Korea
+0,male,58,South Korea
+0,male,76,South Korea
+0,female,61,South Korea
+0,male,24,South Korea
+0,female,38,South Korea
+1,male,57,South Korea
+1,male,59,South Korea
+0,male,75,South Korea
+0,male,30,South Korea
+0,female,26,South Korea
+0,female,34,South Korea
+0,female,59,South Korea
+0,female,58,South Korea
+0,male,60,South Korea
+0,female,52,South Korea
+0,female,59,South Korea
+0,female,50,South Korea
+0,male,22,South Korea
+0,female,30,South Korea
+0,female,56,South Korea
+0,male,29,South Korea
+0,female,48,South Korea
+0,female,56,South Korea
+0,female,39,South Korea
+0,female,20,South Korea
+0,male,49,South Korea
+0,female,23,South Korea
+0,male,36,South Korea
+0,female,57,South Korea
+0,male,55,South Korea
+0,female,22,South Korea
+0,female,34,South Korea
+0,female,65,South Korea
+0,male,64,South Korea
+0,male,67,South Korea
+1,male,74,South Korea
+0,male,35,South Korea
+1,male,62,South Korea
+1,male,58,South Korea
+0,male,62,South Korea
+1,male,41,South Korea
+1,male,36,South Korea
+0,female,69,South Korea
+1,male,75,South Korea
+0,female,55,Taiwan
+0,female,55,Taiwan
+0,male,55,Taiwan
+0,female,50,Taiwan
+0,female,50,Taiwan
+0,female,70,Taiwan
+0,female,70,Taiwan
+0,male,55,Taiwan
+0,male,55,Taiwan
+0,male,45,Taiwan
+0,female,25,Taiwan
+0,male,55,Taiwan
+0,female,45,Taiwan
+0,female,25,Taiwan
+0,male,85,Taiwan
+0,male,55,Taiwan
+0,male,45,Taiwan
+0,female,75,Taiwan
+0,female,35,Taiwan
+0,male,35,Taiwan
+0,female,55,Taiwan
+0,female,61,Thailand
+0,female,74,Thailand
+0,male,68,Thailand
+0,female,73,Thailand
+0,female,33,Thailand
+0,female,57,Thailand
+0,female,73,Thailand
+0,male,50,Thailand
+0,male,70,Thailand
+0,female,54,Thailand
+0,female,35,Thailand
+0,female,60,Thailand
+0,female,31,Thailand
+0,male,29,Thailand
+0,male,8,Thailand
+0,male,25,Thailand
+0,male,30,USA
+0,female,60,USA
+0,male,55,USA
+0,male,60,USA
+0,male,23,USA
+0,male,57,USA
+0,female,57,USA
+0,female,65,USA
+0,male,15,USA
+0,female,55,USA
+1,male,55,USA
+0,female,75,USA
+0,female,45,USA
+0,male,45,USA
+0,male,65,USA
+0,male,65,USA
+0,female,38,USA
+0,female,85,USA
+0,female,95,USA
+0,female,85,USA
+0,female,55,USA
+0,female,25,USA
+0,male,15,USA
+0,male,55,USA
+0,male,25,USA
+0,male,55,USA
+0,male,45,USA
+0,female,65,USA
+0,female,45,USA
+0,female,65,USA
+0,male,75,USA
+0,male,25,USA
+0,male,25,USA
+1,female,85,USA
+0,male,65,USA
+0,female,35,USA
+0,male,20,USA
+0,female,14,USA
+0,female,65,USA
+0,male,65,USA
+0,female,25,USA
+0,female,55,USA
+0,female,45,USA
+0,female,55,USA
+0,male,55,USA
+0,female,65,USA
+0,male,45,USA
+0,female,85,USA
+0,male,95,USA
+0,female,45,USA
+0,male,32,USA
+0,male,42,USA
+0,male,35,USA
+0,female,65,USA
+0,female,75,USA
+0,male,75,USA
+0,female,55,USA
+0,female,65,USA
+0,male,60,USA
+0,female,46,USA
+0,female,45,USA
+0,female,45,USA
+0,female,45,USA
+0,male,45,USA
+0,male,55,USA
+0,male,55,USA
+0,male,65,USA
+1,male,85,USA
+0,male,55,USA
+0,male,49,USA
+0,male,45,USA
+0,female,75,USA
+0,female,36,USA
+0,female,12,USA
+0,male,14,USA
+0,male,17,USA
+0,male,51,USA
+0,male,55,USA
+0,male,45,USA
+0,male,55,USA
+0,female,55,USA
+0,female,65,USA
+0,female,65,USA
+0,female,65,USA
+0,female,45,USA
+0,female,75,USA
+0,female,55,USA
+0,male,55,USA
+0,male,75,USA
+0,male,65,USA
+1,female,77,USA
+0,male,45,USA
+0,male,77,USA
+0,male,33,USA
+0,male,57,USA
+0,female,52,USA
+0,male,75,USA
+0,female,45,USA
+0,female,55,USA
+0,male,45,USA
+0,male,65,USA
+1,female,85,USA
+0,female,45,USA
+0,male,65,USA
+0,male,45,USA
+0,female,65,USA
+0,male,45,USA
+0,female,55,USA
+0,female,35,USA
+0,female,55,USA
+0,female,54,USA
+0,male,55,USA
+0,female,67,USA
+0,male,65,USA
+0,male,55,USA
+0,female,61,USA
+0,female,66,USA
+0,female,25,USA
+0,female,81,USA
+0,female,35,USA
+0,male,45,USA
+0,male,55,USA
+0,male,75,USA
+0,male,75,USA
+0,female,65,USA
+0,male,45,USA
+0,male,70,USA
+0,male,32,USA
+0,male,65,USA
+0,female,75,USA
+0,female,85,USA
+0,male,35,USA
+0,male,65,USA
+0,male,75,USA
+0,female,85,USA
+0,male,65,USA
+0,female,27,USA
+0,male,69,USA
+0,male,67,USA
+0,male,35,USA
+0,male,45,USA
+0,male,35,USA
+0,female,55,USA
+1,female,85,USA
+1,female,95,USA
+0,male,30,USA
+0,male,48,USA
+0,male,27,USA
+0,female,83,USA
+0,female,55,USA
+0,female,75,USA
+0,female,55,USA
+0,female,75,USA
+0,female,35,USA
+0,female,75,USA
+0,female,75,USA
+0,male,65,USA
+0,male,65,USA
+0,male,75,USA
+0,female,75,USA
+0,male,46,USA
+0,female,67,USA
+0,female,55,USA
+0,female,65,USA
+1,female,95,USA
+0,male,39,USA
+0,male,77,USA
+0,male,79,USA
+0,female,75,USA
+0,female,55,USA
+0,female,35,USA
+0,female,69,USA
+0,female,25,USA
+1,male,69,USA
+0,male,55,USA
+0,female,15,USA
+0,male,35,USA
+0,male,75,USA
+0,female,65,USA
+0,female,45,USA
+0,male,45,USA
+0,female,65,USA
+0,female,85,USA
+0,female,75,USA
+0,female,35,USA
+0,female,55,USA
+0,female,75,USA
+0,female,45,USA
+0,male,55,USA
+0,female,55,USA
+0,male,35,USA
+0,female,55,USA
+0,male,45,USA
+0,female,25,USA
+0,female,45,USA
+0,female,25,USA
+0,female,55,USA
+0,male,35,USA
+0,male,75,USA
+0,male,68,USA
+1,male,65,USA
+0,male,45,USA
+0,male,55,USA
+0,female,35,USA
+0,female,65,USA
+0,male,45,USA
+0,female,45,USA
+0,male,85,USA
+0,female,95,USA
+0,female,45,USA
+0,female,85,USA
+0,male,85,USA
+0,male,65,USA
+0,female,65,USA
+0,female,45,USA
+0,female,75,USA
+0,male,55,USA
+0,female,25,USA
+0,male,23,USA
+0,female,23,USA
+0,male,85,USA
+0,female,45,USA
+0,female,68,USA
+1,female,95,USA
+0,male,68,USA
+0,male,73,USA
+0,female,68,USA
+0,female,64,USA
+0,male,67,USA
+0,male,54,USA
+0,male,46,USA
+0,male,55,USA
+0,male,65,USA
+0,female,65,USA
+0,female,75,USA
+0,male,95,USA
+0,male,66,Vietnam
+0,female,16,Vietnam
+0,female,29,Vietnam
+0,female,55,Vietnam
+0,male,50,Vietnam
+0,male,35,Australia
+0,male,43,Australia
+0,male,53,Australia
+0,female,45,Australia
+0,female,42,Australia
+0,male,60,Australia
+0,female,60,Australia
+0,female,25,Australia
+0,male,8,Australia
+0,male,37,Australia
+0,female,37,Australia
+0,male,56,Canada
+0,female,55,Canada
+0,male,45,Canada
+0,female,35,Canada
+0,female,35,Canada
+0,female,35,Canada
+0,female,25,Canada
+0,male,45,Canada
+0,female,65,Canada
+0,male,33,Germany
+0,male,52,Germany
+0,male,33,Germany
+0,male,58,Germany
+0,male,49,Germany
+0,male,25,Germany
+0,male,60,Germany
+0,female,24,Germany
+0,male,32,Germany
+0,male,47,Germany
+0,female,46,Germany
+0,male,41,Germany
+0,male,31,Germany
+0,male,32,Germany
+0,male,29,Germany
+0,male,32,Germany
+0,male,28,Germany
+0,male,31,Germany
+0,female,41,Germany
+0,female,42,Germany
+0,male,52,Germany
+0,female,42,Germany
+0,male,20,Germany
+0,male,68,Germany
+0,male,24,Germany
+0,male,54,Germany
+0,male,41,Germany
+0,male,85,Germany
+0,female,54,Germany
+0,male,32,Germany
+0,female,51,Germany
+0,male,61,Germany
+0,female,45,Germany
+0,male,44,Germany
+0,male,45,Germany
+0,male,18,Germany
+0,female,43,Germany
+0,male,64,Germany
+0,female,62,Germany
+0,male,50,Germany
+0,male,51,Germany
+0,male,57,Germany
+0,male,48,Germany
+0,male,53,Germany
+0,male,12,Germany
+0,male,54,Germany
+0,male,63,Germany
+0,female,12,Germany
+0,female,46,Germany
+0,male,61,Germany
+0,female,55,Germany
+0,female,14,Germany
+0,female,25,Germany
+0,female,38,Germany
+0,female,33,Germany
+0,male,80,Germany
+0,male,40,Germany
+0,male,58,Germany
+0,female,33,Germany
+0,female,91,Germany
+0,female,87,Germany
+0,male,77,Germany
+0,male,56,Germany
+0,male,19,Germany
+0,male,34,Germany
+0,male,49,Germany
+0,female,75,Germany
+0,female,21,Germany
+0,female,27,Germany
+0,female,50,Germany
+0,female,50,Germany
+0,female,18,Germany
+0,male,19,Germany
+0,female,19,Germany
+0,female,19,Germany
+0,female,51,Germany
+0,male,54,Germany
+0,male,50,Germany
+0,male,57,Germany
+0,female,54,Germany
+0,female,17,Germany
+0,male,43,Germany
+0,male,56,Germany
+0,female,23,Germany
+0,male,37,Germany
+0,female,65,Germany
+0,female,43,Germany
+0,female,73,UAE
+0,male,8,UAE
+0,male,37,UAE
+0,male,70,UAE
+0,female,64,UAE
+0,male,39,Hong Kong
+0,male,56,Hong Kong
+0,female,62,Hong Kong
+0,female,62,Hong Kong
+0,male,63,Hong Kong
+0,male,47,Hong Kong
+0,female,68,Hong Kong
+0,male,64,Hong Kong
+0,female,73,Hong Kong
+0,male,72,Hong Kong
+0,female,37,Hong Kong
+0,male,75,Hong Kong
+1,male,39,Hong Kong
+0,male,80,Hong Kong
+0,female,72,Hong Kong
+0,female,64,Hong Kong
+0,male,60,Hong Kong
+0,male,25,Hong Kong
+0,female,56,Hong Kong
+0,female,28,Hong Kong
+0,male,56,Hong Kong
+0,female,55,Hong Kong
+0,female,63,Hong Kong
+0,female,65,Hong Kong
+0,male,58,Hong Kong
+0,male,42,Hong Kong
+0,male,24,Hong Kong
+0,male,70,Hong Kong
+0,male,68,Hong Kong
+0,female,57,Hong Kong
+0,female,91,Hong Kong
+0,female,51,Hong Kong
+0,female,25,Hong Kong
+0,male,22,Hong Kong
+0,female,50,Hong Kong
+0,male,23,Hong Kong
+0,female,55,Hong Kong
+0,male,52,Hong Kong
+0,male,69,Hong Kong
+0,female,63,Hong Kong
+0,female,86,Hong Kong
+0,female,62,Hong Kong
+0,male,59,Hong Kong
+0,female,60,Hong Kong
+0,male,71,Hong Kong
+0,male,37,Hong Kong
+0,male,66,Hong Kong
+0,female,37,Hong Kong
+0,male,75,Hong Kong
+0,male,51,Hong Kong
+0,male,43,Hong Kong
+0,male,45,Hong Kong
+0,female,46,Hong Kong
+0,female,32,Hong Kong
+0,male,58,Hong Kong
+0,female,83,Hong Kong
+0,female,83,Hong Kong
+0,male,68,Hong Kong
+0,female,70,Hong Kong
+0,male,75,Hong Kong
+0,female,38,Hong Kong
+0,male,58,Hong Kong
+0,male,48,Hong Kong
+0,female,96,Hong Kong
+0,male,68,Hong Kong
+0,male,62,Hong Kong
+0,female,80,Hong Kong
+0,female,76,Hong Kong
+0,male,35,Hong Kong
+0,female,57,Hong Kong
+0,female,68,Hong Kong
+0,female,59,Hong Kong
+0,female,58,Hong Kong
+0,male,57,Hong Kong
+0,female,57,Hong Kong
+0,male,33,Hong Kong
+0,female,55,Hong Kong
+0,male,24,Hong Kong
+0,female,60,Hong Kong
+0,female,49,Hong Kong
+0,female,21,Hong Kong
+0,male,16,Hong Kong
+0,male,80,Hong Kong
+0,female,29,Hong Kong
+0,male,26,Hong Kong
+0,female,70,Hong Kong
+0,female,89,Hong Kong
+0,female,61,Hong Kong
+0,female,46,Hong Kong
+0,female,68,Hong Kong
+0,male,56,Hong Kong
+0,female,71,Hong Kong
+0,female,76,Hong Kong
+0,male,79,Hong Kong
+0,male,63,Hong Kong
+0,male,35,Italy
+0,male,38,Italy
+0,male,75,Italy
+0,male,78,Italy
+0,male,67,Italy
+0,male,78,Italy
+0,male,71,Italy
+1,female,77,Italy
+0,male,65,Italy
+0,female,57,Italy
+0,female,38,Italy
+0,female,32,Italy
+0,female,66,Italy
+0,male,79,Italy
+0,male,69,Spain
+0,female,36,Spain
+0,male,31,Spain
+0,male,22,Spain
+0,male,62,Spain
+0,male,44,Spain
+0,female,22,Spain
+0,male,30,Spain
+0,male,18,Spain
+0,male,28,Spain
+0,female,27,Spain
+0,male,59,Spain
+0,male,62,Spain
+0,female,52,Spain
+0,female,39,Spain
+0,male,62,Spain
+0,male,62,Spain
+0,male,56,Spain
+0,male,56,Spain
+0,male,58,Spain
+0,male,19,Spain
+0,male,30,Spain
+0,male,23,Spain
+0,female,19,Spain
+0,male,52,Spain
+0,female,20,Spain
+0,female,16,Spain
+0,male,28,Spain
+0,female,20,Spain
+0,female,21,Spain
+0,male,34,Spain
+0,male,52,Spain
+0,male,73,Spain
+0,female,17,Spain
+0,female,23,Spain
+0,female,37,Spain
+0,female,63,Spain
+0,female,48,Spain
+0,male,78,Spain
+0,male,74,Spain
+0,male,72,Spain
+0,male,54,Spain
+0,male,22,Spain
+0,male,32,Spain
+0,male,37,Spain
+0,male,53,Spain
+0,male,70,Spain
+0,female,74,Spain
+0,female,75,Spain
+0,male,64,Spain
+0,male,55,Spain
+0,female,21,Spain
+0,male,52,Spain
+0,male,23,Spain
+0,female,71,Spain
+0,female,50,Spain
+0,male,66,Spain
+0,male,40,Spain
+0,male,53,Spain
+0,male,77,Spain
+0,female,69,Spain
+0,male,85,Spain
+0,male,83,Spain
+0,male,66,Spain
+0,female,96,Spain
+0,male,70,Switzerland
+0,male,28,Switzerland
+0,male,26,Switzerland
+0,female,30,Switzerland
+0,male,49,Switzerland
+0,male,23,Switzerland
