@@ -69,7 +69,7 @@ def calculate():
     predict_input_fn = make_input_fn(temp_stats, [0], num_epochs=1, shuffle=False)
     result = linear_est.predict(predict_input_fn)
     for r in result:
-        result = r["probabilities"][1]
+        result = r["probabilities"][1] * 100
         result = str(result) + "%"
     return render_template("calculate.html", age=request.form.get("age"), gender=request.form.get("gender"),
                            country=request.form.get("country"), result=result)
