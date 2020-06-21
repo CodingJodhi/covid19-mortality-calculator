@@ -9,3 +9,6 @@ The socio-economic issue this project takes a stab at is of course COVID-19, or 
 We can then allow individuals with less risk to go back to their normal routine, which will then result in the virus dying out quicker, with minimal loss of life and economic loss.
 
 Thanks for checking out my project!
+
+
+**NOTE: This project was built for a hackathon, but feel free to contribute, fork, clone, etc!**
